@@ -62,4 +62,11 @@ The app has two windows: the **Main Window** and the **Tray Window** (opened fro
 
 ## Screenshots
 
-Screenshots (not yet added — see the original request). If you send me descriptions of what they show I can add them here.
+### Select device
+![Select device](ss/select%20device.png)
+
+### UI example 1
+![UI example 1](ss/page_1.png)
+
+### UI example 2
+![UI example 2](ss/page_2.png)
