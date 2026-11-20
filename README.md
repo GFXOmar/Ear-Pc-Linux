@@ -1,5 +1,9 @@
 # Ear PC for Linux
 
+<p align="center">
+  <img src="logo.webp" alt="Ear PC logo" width="220" />
+</p>
+
 A **universal Linux installer** and packaging of **Ear PC** — an unofficial port of [Nothing X](https://nothing.tech/pages/nothing-x) for PC — so you can control **Nothing** and compatible **CMF** earbuds from Linux.
 
 This project is based on [radiance-project/ear-pc](https://github.com/radiance-project/ear-pc) (Ear PC 1.0.6). The original Windows release shipped its backend as compiled bytecode; this Linux build reconstructs that backend into `main.py`, replaces the abandoned `pybluez` dependency with a pure-Python BlueZ shim (`bluetooth.py`, using native kernel RFCOMM/L2CAP sockets and real SDP channel discovery), and packages everything with a one-command installer that works across major Linux distros.
