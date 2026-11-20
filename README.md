@@ -1,7 +1,7 @@
 # Ear PC for Linux
 
 <p align="center">
-  <img src="logo.webp" alt="Ear PC logo" width="220" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-PNlQaPiL8_4EwaxlJNQoshfqkh7XtZSxxKYisN53gA&s=10" alt="Ear PC logo" width="220" />
 </p>
 
 A **universal Linux installer** and packaging of **Ear PC** — an unofficial port of [Nothing X](https://nothing.tech/pages/nothing-x) for PC — so you can control **Nothing** and compatible **CMF** earbuds from Linux.
