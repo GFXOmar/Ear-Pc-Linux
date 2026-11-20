@@ -1,6 +1,6 @@
 # Ear PC for Linux
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.aptoide.com/imgs/b/0/0/b00168ec896a7608090e9a3636f0ad41_icon.png" alt="Ear PC logo" width="220" />
 </p>
 
