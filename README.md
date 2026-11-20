@@ -39,10 +39,10 @@ This project is based on [radiance-project/ear-pc](https://github.com/radiance-p
 
 | Device | Status |
 |---|---|
-| Nothing ear (1) | Supported (upstream) |
-| Nothing ear (stick) | Supported (upstream) |
-| Nothing ear (2) | Supported (upstream) |
-| CMF buds | May work — reports welcome (not officially verified here) |
+| Nothing ear (1) | Supported  |
+| Nothing ear (stick) | Supported  |
+| Nothing ear (2) | Supported  |
+| CMF buds | Buds 2 tested. |
 
 Device support comes from the upstream Ear PC protocol implementation. If your model works (or doesn't), please open an issue with your device name and what you see.
 
@@ -132,9 +132,6 @@ This removes the app, its virtual environment, local profile/database, launcher,
 ## Credits & acknowledgements
 
 - **[radiance-project/ear-pc](https://github.com/radiance-project/ear-pc)** — the original Ear (PC) project and UI/frontend this is based on (unofficial Nothing X port, Ear PC 1.0.6). Huge credit to the upstream authors:
-  - **RapidZapper** — idea and backend work
-  - **[Bendix](https://www.mrbrickstar.de/)** — frontend work
-  - **[DerrenGoneDigital](https://twitter.com/DerrenDigital)** — logo
 - **[radiance-project/ear-web](https://github.com/radiance-project/ear-web)** — the Radiance Project's multiplatform web successor to Ear (PC), by the same team. A great browser-based option (Chromium + Web Bluetooth) if you prefer not to install a native app; it also supports newer devices such as CMF Buds Pro/Pro 2 and Nothing Ear.
 - **[GFXOmar](https://github.com/GFXOmar)** — Linux port/packaging and this universal installer (backend reconstruction for Linux, pure-Python BlueZ shim, distro-friendly installer and distribution).
 
