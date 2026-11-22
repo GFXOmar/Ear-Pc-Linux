@@ -158,6 +158,10 @@ Pull requests that improve Linux compatibility, packaging, or documentation are 
 ## Disclaimer
 
 This is an independent, unofficial project and is **not** affiliated with, endorsed by, or connected to Nothing Technology Limited, CMF, or the radiance-project maintainers. “Nothing”, “CMF”, and related marks are the property of their respective owners. The software is provided as-is, without warranty; interacting with earbuds/firmware is done at your own risk.
+VirusTotal scans,
+ (https://www.virustotal.com/gui/file/739b5089755a29312b877608dbabbb8151ab18684a80c4fbf01d88da5ccafaa6?nocache=1) 
+ (https://www.virustotal.com/gui/file/d4c23bbb74b8bfc6c631aba9d820528b96e88ef04de9abcf4b1bd785f6330512?nocache=1)
+ 
 
 ## License
 
